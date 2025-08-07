@@ -21,7 +21,7 @@ two GeForce RTX 3090 GPUs of 24 GB Memory.
 
     
     + downloading datasets and move it into `./data/TrainDataset/` and `./data/TestDataset/`, 
-    which can be found in this [Google Drive Link (2.83G)](https://drive.google.com/file/d/1zUFsh18vlx7vX_AsdLU6NfqiOyctikVT/view?usp=drive_link). It contains two 
+    which can be found in this [Google Drive Link (2.83G)](https://drive.google.com/file/d/1zUFsh18vlx7vX_AsdLU6NfqiOyctikVT/view?usp=drive_link). It contains:
     
     + + Polyp: It contains two Train-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples); Test-datsets: CVC-300 (60 test samples), CVC-ClinicDB (62 test samples), CVC-ColonDB (380 test samples), ETIS-LaribPolypDB (196 test samples), Kvasir (100 test samples).
 
