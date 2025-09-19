@@ -1,4 +1,4 @@
-# Hybrid Graph Mamba : Exploiting Non-Euclidean Geometry in Medical Image Segmentation
+# From Pixels to Graphs: Non-Euclidean Feature Learning with Hybrid Graph Mamba for Medical Image Segmentation
 
 ## Training/Testing
 
